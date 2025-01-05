@@ -12,7 +12,7 @@ This project provides an in-depth analysis of Men's Singles Grand Slam events fr
   - Generational player rivalries visualized through network diagrams.
 
 ## Files
-- **Report**: [Tennis_Grand_Slams_Report.pdf](Tennis_Grand_Slams_Report.pdf)
+- **Report**: [Tennis_Grand_Slams_Report.pdf]
 - **Data**: Contains cleaned datasets used for the analysis.
 - **Code**: Python scripts for data preprocessing and analysis.
 - **Visualizations**: Exported Tableau dashboards and images.
