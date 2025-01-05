@@ -1,0 +1,99 @@
+player1_name,player1_country_name,player1_country_id,player1_active,player2_name,player2_country_name,player2_country_id,player2_active,lastMatch_season,lastMatch_level,lastMatch_surface,lastMatch_indoor,lastMatch_tournament,lastMatch_round,lastMatch_score,rank,rivalryScore,matches,wonPctStr,lostPctStr,won,lost
+Novak Djokovic,Serbia,SRB,false,Rafael Nadal,Spain,ESP,false,2022,G,C,false,Roland Garros,QF,6-2 4-6 6-2 7-6(4),1,120,18,38.9%,61.1%,7,11
+Novak Djokovic,Serbia,SRB,false,Roger Federer,Switzerland,SUI,false,2020,G,H,false,Australian Open,SF,7-6(1) 6-4 6-3,2,102,17,64.7%,35.3%,11,6
+Roger Federer,Switzerland,SUI,false,Rafael Nadal,Spain,ESP,false,2019,G,G,false,Wimbledon,SF,7-6(3) 1-6 6-3 6-4,3,106,14,28.6%,71.4%,4,10
+Novak Djokovic,Serbia,SRB,false,Andy Murray,United Kingdom,GBR,false,2016,G,C,false,Roland Garros,F,3-6 6-1 6-2 6-4,4,76,10,80.0%,20.0%,8,2
+Ivan Lendl,United States,USA,false,John McEnroe,United States,USA,false,1989,G,H,false,Australian Open,QF,7-6 6-2 7-6,5,51,10,70.0%,30.0%,7,3
+Roger Federer,Switzerland,SUI,false,Tomas Berdych,Czech Republic,CZE,false,2018,G,H,false,Australian Open,QF,7-6(1) 6-3 6-4,6,26,10,80.0%,20.0%,8,2
+Pete Sampras,United States,USA,false,Andre Agassi,United States,USA,false,2002,G,H,false,US Open,F,6-3 6-4 5-7 6-4,7,59,9,66.7%,33.3%,6,3
+Ivan Lendl,United States,USA,false,Mats Wilander,Sweden,SWE,false,1988,G,H,false,US Open,F,6-4 4-6 6-3 5-7 6-4,8,57,9,55.6%,44.4%,5,4
+Jimmy Connors,United States,USA,false,John McEnroe,United States,USA,false,1984,G,H,false,US Open,SF,6-4 4-6 7-5 4-6 6-3,9,53,9,33.3%,66.7%,3,6
+Ivan Lendl,United States,USA,false,Stefan Edberg,Sweden,SWE,false,1992,G,H,false,US Open,QF,6-3 6-3 3-6 5-7 7-6(3),10,45,9,44.4%,55.6%,4,5
+Novak Djokovic,Serbia,SRB,false,Stan Wawrinka,Switzerland,SUI,false,2023,G,G,false,Wimbledon,R32,6-3 6-1 7-6(5),11,38,9,55.6%,44.4%,5,4
+Rafael Nadal,Spain,ESP,false,Andy Murray,United Kingdom,GBR,false,2014,G,C,false,Roland Garros,SF,6-3 6-2 6-1,11,38,9,77.8%,22.2%,7,2
+Jimmy Connors,United States,USA,false,Bjorn Borg,Sweden,SWE,false,1981,G,H,false,US Open,SF,6-2 7-5 6-4,13,56,8,37.5%,62.5%,3,5
+Roger Federer,Switzerland,SUI,false,Andy Roddick,United States,USA,false,2009,G,G,false,Wimbledon,F,5-7 7-6(6) 7-6(5) 3-6 16-14,14,54,8,100.0%,0.0%,8,0
+Pete Sampras,United States,USA,false,Jim Courier,United States,USA,false,1996,G,C,false,Roland Garros,QF,6-7(4) 4-6 6-4 6-4 6-4,15,36,8,75.0%,25.0%,6,2
+Roger Federer,Switzerland,SUI,false,Lleyton Hewitt,Australia,AUS,false,2010,G,H,false,Australian Open,R16,6-2 6-3 6-4,16,29,8,100.0%,0.0%,8,0
+Novak Djokovic,Serbia,SRB,false,Jo Wilfried Tsonga,France,FRA,false,2019,G,H,false,Australian Open,R64,6-3 7-5 6-4,17,28,8,87.5%,12.5%,7,1
+Roger Federer,Switzerland,SUI,false,Stan Wawrinka,Switzerland,SUI,false,2019,G,C,false,Roland Garros,QF,7-6(4) 4-6 7-6(5) 6-4,18,26,8,87.5%,12.5%,7,1
+Jimmy Connors,United States,USA,false,Ivan Lendl,United States,USA,false,1992,G,H,false,US Open,R64,3-6 6-3 6-2 6-0,19,39,7,42.9%,57.1%,3,4
+Roger Federer,Switzerland,SUI,false,Juan Martin Del Potro,Argentina,ARG,false,2017,G,H,false,US Open,QF,7-5 3-6 7-6(8) 6-4,20,27,7,71.4%,28.6%,5,2
+Rafael Nadal,Spain,ESP,false,Juan Martin Del Potro,Argentina,ARG,false,2018,G,H,false,US Open,SF,7-6(3) 6-2 RET,21,26,7,71.4%,28.6%,5,2
+Rafael Nadal,Spain,ESP,false,David Ferrer,Spain,ESP,false,2018,G,H,false,US Open,R128,6-3 3-4 RET,21,26,7,71.4%,28.6%,5,2
+Andre Agassi,United States,USA,false,Patrick Rafter,Australia,AUS,false,2001,G,G,false,Wimbledon,SF,2-6 6-3 3-6 6-2 8-6,23,25,7,57.1%,42.9%,4,3
+Pete Sampras,United States,USA,false,Todd Martin,United States,USA,false,2001,G,H,false,Australian Open,R16,6-7(2) 6-3 6-4 6-4,24,21,7,85.7%,14.3%,6,1
+Novak Djokovic,Serbia,SRB,false,Kei Nishikori,Japan,JPN,false,2021,G,H,false,US Open,R32,6-7(4) 6-3 6-3 6-2,24,21,7,85.7%,14.3%,6,1
+Andy Murray,United Kingdom,GBR,false,Stan Wawrinka,Switzerland,SUI,false,2020,G,C,false,Roland Garros,R128,6-1 6-3 6-2,26,19,7,42.9%,57.1%,3,4
+Pete Sampras,United States,USA,false,Mark Philippoussis,Australia,AUS,false,2000,G,C,false,Roland Garros,R128,4-6 7-5 7-6(4) 4-6 8-6,27,12,7,71.4%,28.6%,5,2
+Roger Federer,Switzerland,SUI,false,Andy Murray,United Kingdom,GBR,false,2015,G,G,false,Wimbledon,SF,7-5 7-5 6-4,28,40,6,83.3%,16.7%,5,1
+Ivan Lendl,United States,USA,false,Boris Becker,Germany,GER,false,1992,G,H,false,US Open,R16,6-7(4) 6-2 6-7(4) 6-3 6-4,29,39,6,16.7%,83.3%,1,5
+Stefan Edberg,Sweden,SWE,false,Jim Courier,United States,USA,false,1993,G,G,false,Wimbledon,SF,4-6 6-4 6-2 6-4,30,37,6,33.3%,66.7%,2,4
+Ken Rosewall,Australia,AUS,false,John Newcombe,Australia,AUS,false,1974,G,G,false,US Open,SF,6-7 6-4 7-6 6-3,31,32,6,50.0%,50.0%,3,3
+Rafael Nadal,Spain,ESP,false,Dominic Thiem,Austria,AUT,false,2020,G,H,false,Australian Open,QF,7-6(3) 7-6(4) 4-6 7-6(6),32,30,6,83.3%,16.7%,5,1
+Roger Federer,Switzerland,SUI,false,Marin Cilic,Croatia,CRO,false,2021,G,C,false,Roland Garros,R64,6-2 2-6 7-6(4) 6-2,33,28,6,83.3%,16.7%,5,1
+Ivan Lendl,United States,USA,false,Pat Cash,Australia,AUS,false,1988,G,H,false,Australian Open,SF,6-4 2-6 6-2 4-6 6-2,33,28,6,50.0%,50.0%,3,3
+Bjorn Borg,Sweden,SWE,false,Roscoe Tanner,United States,USA,false,1981,G,H,false,US Open,QF,7-6 6-3 6-7 7-6,35,25,6,83.3%,16.7%,5,1
+Andre Agassi,United States,USA,false,Jim Courier,United States,USA,false,1996,G,H,false,Australian Open,QF,6-7(7) 2-6 6-3 6-4 6-2,36,23,6,33.3%,66.7%,2,4
+Roger Federer,Switzerland,SUI,false,Nikolay Davydenko,Russian Federation,RUS,false,2013,G,H,false,Australian Open,R64,6-3 6-4 6-4,37,22,6,100.0%,0.0%,6,0
+Roger Federer,Switzerland,SUI,false,Robin Soderling,Sweden,SWE,false,2010,G,H,false,US Open,QF,6-4 6-4 7-5,38,21,6,83.3%,16.7%,5,1
+Novak Djokovic,Serbia,SRB,false,Tomas Berdych,Czech Republic,CZE,false,2017,G,G,false,Wimbledon,QF,7-6(2) 2-0 RET,39,20,6,66.7%,33.3%,4,2
+Roger Federer,Switzerland,SUI,false,Jo Wilfried Tsonga,France,FRA,false,2014,G,H,false,Australian Open,R16,6-3 7-5 6-4,40,19,6,66.7%,33.3%,4,2
+Rafael Nadal,Spain,ESP,false,Robin Soderling,Sweden,SWE,false,2011,G,C,false,Roland Garros,QF,6-4 6-1 7-6(3),40,19,6,83.3%,16.7%,5,1
+Rafael Nadal,Spain,ESP,false,Diego Sebastian Schwartzman,Argentina,ARG,false,2021,G,C,false,Roland Garros,QF,6-3 4-6 6-4 6-0,42,17,6,100.0%,0.0%,6,0
+Lleyton Hewitt,Australia,AUS,false,Andy Roddick,United States,USA,false,2012,G,H,false,Australian Open,R64,3-6 6-3 6-4 RET,43,16,6,66.7%,33.3%,4,2
+Roger Federer,Switzerland,SUI,false,David Nalbandian,Argentina,ARG,false,2011,G,G,false,Wimbledon,R32,6-4 6-2 6-4,43,16,6,66.7%,33.3%,4,2
+Ivan Lendl,United States,USA,false,Tim Mayotte,United States,USA,false,1989,G,H,false,US Open,QF,6-4 6-0 6-1,43,16,6,100.0%,0.0%,6,0
+Roger Federer,Switzerland,SUI,false,Tommy Robredo,Spain,ESP,false,2014,G,G,false,Wimbledon,R16,6-1 6-4 6-4,46,14,6,83.3%,16.7%,5,1
+Rafael Nadal,Spain,ESP,false,Mikhail Youzhny,Russian Federation,RUS,false,2015,G,H,false,Australian Open,R128,6-3 6-2 6-2,46,14,6,83.3%,16.7%,5,1
+Rafael Nadal,Spain,ESP,false,Richard Gasquet,France,FRA,false,2022,G,H,false,US Open,R32,6-0 6-1 7-5,48,10,6,100.0%,0.0%,6,0
+Novak Djokovic,Serbia,SRB,false,Fernando Verdasco,Spain,ESP,false,2018,G,C,false,Roland Garros,R16,6-3 6-4 6-2,48,10,6,83.3%,16.7%,5,1
+Rafael Nadal,Spain,ESP,false,Lleyton Hewitt,Australia,AUS,false,2010,G,C,false,Roland Garros,R32,6-3 6-4 6-3,50,9,6,66.7%,33.3%,4,2
+Pete Sampras,United States,USA,false,Goran Ivanisevic,Croatia,CRO,false,1998,G,G,false,Wimbledon,F,6-7(2) 7-6(9) 6-4 3-6 6-2,51,33,5,80.0%,20.0%,4,1
+Stefan Edberg,Sweden,SWE,false,Mats Wilander,Sweden,SWE,false,1990,G,H,false,Australian Open,SF,6-1 6-1 6-2,52,27,5,40.0%,60.0%,2,3
+Bjorn Borg,Sweden,SWE,false,Vitas Gerulaitis,United States,USA,false,1981,G,G,false,Wimbledon,R16,7-6 7-5 7-6,53,26,5,100.0%,0.0%,5,0
+Andre Agassi,United States,USA,false,Boris Becker,Germany,GER,false,1995,G,H,false,US Open,SF,7-6(4) 7-6(2) 4-6 6-4,54,23,5,80.0%,20.0%,4,1
+John McEnroe,United States,USA,false,Mats Wilander,Sweden,SWE,false,1989,G,G,false,Wimbledon,QF,7-6 3-6 6-3 6-4,55,21,5,40.0%,60.0%,2,3
+Novak Djokovic,Serbia,SRB,false,David Ferrer,Spain,ESP,false,2013,G,H,false,Australian Open,SF,6-2 6-2 6-1,55,21,5,100.0%,0.0%,5,0
+Andre Agassi,United States,USA,false,Yevgeny Kafelnikov,Russian Federation,RUS,false,2003,G,H,false,US Open,R32,6-3 7-6(4) 6-4,55,21,5,80.0%,20.0%,4,1
+Ken Rosewall,Australia,AUS,false,Tony Roche,Australia,AUS,false,1975,G,G,false,Wimbledon,R16,6-3 6-8 8-6 6-1,55,21,5,60.0%,40.0%,3,2
+Roger Federer,Switzerland,SUI,false,Marat Safin,Russian Federation,RUS,false,2009,G,H,false,Australian Open,R32,6-3 6-2 7-6(5),55,21,5,80.0%,20.0%,4,1
+Pete Sampras,United States,USA,false,Michael Chang,United States,USA,false,1996,G,H,false,US Open,F,6-1 6-4 7-6(3),55,21,5,80.0%,20.0%,4,1
+Rafael Nadal,Spain,ESP,false,Tomas Berdych,Czech Republic,CZE,false,2019,G,H,false,Australian Open,R16,6-0 6-1 7-6(4),61,20,5,80.0%,20.0%,4,1
+Andre Agassi,United States,USA,false,Todd Martin,United States,USA,false,2001,G,H,false,Australian Open,QF,7-5 6-3 6-4,61,20,5,80.0%,20.0%,4,1
+Stefan Edberg,Sweden,SWE,false,Michael Chang,United States,USA,false,1996,G,C,false,Roland Garros,R32,4-6 7-5 6-0 7-6(1),63,19,5,80.0%,20.0%,4,1
+John Newcombe,Australia,AUS,false,Tony Roche,Australia,AUS,false,1975,G,G,false,Australian Open,SF,6-4 4-6 6-4 2-6 11-9,63,19,5,60.0%,40.0%,3,2
+Novak Djokovic,Serbia,SRB,false,Juan Martin Del Potro,Argentina,ARG,false,2018,G,H,false,US Open,F,6-3 7-6(4) 6-3,63,19,5,100.0%,0.0%,5,0
+Mats Wilander,Sweden,SWE,false,Pat Cash,Australia,AUS,false,1988,G,H,false,Australian Open,F,6-3 6-7 3-6 6-1 8-6,66,18,5,20.0%,80.0%,1,4
+Jimmy Connors,United States,USA,false,Roscoe Tanner,United States,USA,false,1980,G,G,false,Wimbledon,QF,1-6 6-2 4-6 6-2 6-2,66,18,5,80.0%,20.0%,4,1
+Andy Murray,United Kingdom,GBR,false,David Ferrer,Spain,ESP,false,2016,G,H,false,Australian Open,QF,6-3 6-7 6-2 6-3,68,17,5,80.0%,20.0%,4,1
+Andre Agassi,United States,USA,false,Michael Chang,United States,USA,false,1996,G,H,false,US Open,SF,6-3 6-2 6-2,68,17,5,60.0%,40.0%,3,2
+Marin Cilic,Croatia,CRO,false,Kei Nishikori,Japan,JPN,false,2018,G,H,false,US Open,QF,2-6 6-4 7-6(5) 4-6 6-4,70,16,5,60.0%,40.0%,3,2
+Roger Federer,Switzerland,SUI,false,Gael Monfils,France,FRA,false,2015,G,C,false,Roland Garros,R16,6-3 4-6 6-4 6-1,70,16,5,100.0%,0.0%,5,0
+Andy Murray,United Kingdom,GBR,false,Jo Wilfried Tsonga,France,FRA,false,2016,G,G,false,Wimbledon,QF,7-6(10) 6-1 3-6 4-6 6-1,72,14,5,80.0%,20.0%,4,1
+Andy Murray,United Kingdom,GBR,false,Marin Cilic,Croatia,CRO,false,2012,G,H,false,US Open,QF,3-6 7-6(4) 6-2 6-0,72,14,5,80.0%,20.0%,4,1
+Novak Djokovic,Serbia,SRB,false,Marin Cilic,Croatia,CRO,false,2015,G,H,false,US Open,SF,6-0 6-1 6-2,74,13,5,100.0%,0.0%,5,0
+Ivan Lendl,United States,USA,false,Andres Gomez,Ecuador,ECU,false,1987,G,C,false,Roland Garros,QF,5-7 6-4 6-1 6-1,74,13,5,100.0%,0.0%,5,0
+Novak Djokovic,Serbia,SRB,false,Gael Monfils,France,FRA,false,2018,G,H,false,Australian Open,R64,4-6 6-3 6-1 6-3,76,12,5,100.0%,0.0%,5,0
+Roger Federer,Switzerland,SUI,false,Mario Ancic,Croatia,CRO,false,2008,G,G,false,Wimbledon,QF,6-1 7-5 6-4,77,11,5,80.0%,20.0%,4,1
+Roger Federer,Switzerland,SUI,false,Richard Gasquet,France,FRA,false,2021,G,G,false,Wimbledon,R64,7-6(1) 6-1 6-4,77,11,5,100.0%,0.0%,5,0
+Rafael Nadal,Spain,ESP,false,Nicolas Almagro,Spain,ESP,false,2015,G,C,false,Roland Garros,R64,6-4 6-3 6-1,77,11,5,100.0%,0.0%,5,0
+Juan Martin Del Potro,Argentina,ARG,false,Marin Cilic,Croatia,CRO,false,2018,G,C,false,Roland Garros,QF,7-6(5) 5-7 6-3 7-5,77,11,5,80.0%,20.0%,4,1
+Andy Murray,United Kingdom,GBR,false,Richard Gasquet,France,FRA,false,2016,G,C,false,Roland Garros,QF,5-7 7-6(3) 6-0 6-2,81,10,5,100.0%,0.0%,5,0
+Novak Djokovic,Serbia,SRB,false,Lleyton Hewitt,Australia,AUS,false,2012,G,H,false,Australian Open,R16,6-1 6-3 4-6 6-3,82,9,5,80.0%,20.0%,4,1
+Pete Sampras,United States,USA,false,Karol Kucera,Slovakia,SVK,false,2001,G,H,false,Australian Open,R128,7-6(5) 3-6 6-4 7-6(3),82,9,5,80.0%,20.0%,4,1
+Roger Federer,Switzerland,SUI,false,Mikhail Youzhny,Russian Federation,RUS,false,2017,G,H,false,US Open,R64,6-1 6-7(3) 4-6 6-4 6-2,82,9,5,100.0%,0.0%,5,0
+Andy Murray,United Kingdom,GBR,false,Fernando Verdasco,Spain,ESP,false,2018,G,H,false,US Open,R64,7-5 2-6 6-4 6-4,82,9,5,60.0%,40.0%,3,2
+Goran Ivanisevic,Croatia,CRO,false,Todd Martin,United States,USA,false,1999,G,G,false,Wimbledon,R16,7-6(3) 6-3 6-4,86,8,5,60.0%,40.0%,3,2
+Jim Courier,United States,USA,false,Thomas Muster,Austria,AUT,false,1997,G,H,false,Australian Open,R16,6-2 3-6 7-6(4) 6-3,86,8,5,80.0%,20.0%,4,1
+Novak Djokovic,Serbia,SRB,false,Philipp Kohlschreiber,Germany,GER,false,2019,G,G,false,Wimbledon,R128,6-3 7-5 6-3,88,7,5,80.0%,20.0%,4,1
+Tomas Berdych,Czech Republic,CZE,false,Kevin Anderson,South Africa,RSA,false,2014,G,H,false,Australian Open,R16,6-2 6-2 6-3,88,7,5,100.0%,0.0%,5,0
+Stan Smith,United States,USA,false,Dick Crealy,Australia,AUS,false,1977,G,G,false,Australian Open-2,R32,4-6 6-3 7-6 6-3,88,7,5,60.0%,40.0%,3,2
+Andy Murray,United Kingdom,GBR,false,Juan Ignacio Chela,Argentina,ARG,false,2011,G,C,false,Roland Garros,QF,7-6(2) 7-5 6-2,88,7,5,80.0%,20.0%,4,1
+Pete Sampras,United States,USA,false,Mikael Tillstrom,Sweden,SWE,false,2000,G,H,false,Australian Open,R64,6-3 7-6(6) 6-1,92,6,5,100.0%,0.0%,5,0
+Gael Monfils,France,FRA,false,Richard Gasquet,France,FRA,false,2018,G,G,false,Wimbledon,R128,7-6(6) 7-5 6-4,92,6,5,80.0%,20.0%,4,1
+Novak Djokovic,Serbia,SRB,false,Radek Stepanek,Czech Republic,CZE,false,2014,G,G,false,Wimbledon,R64,6-4 6-3 6-7(5) 7-6(5),92,6,5,100.0%,0.0%,5,0
+Andreas Seppi,Italy,ITA,false,Denis Istomin,Uzbekistan,UZB,false,2015,G,H,false,Australian Open,R128,5-7 6-3 2-6 6-1 6-4,95,5,5,60.0%,40.0%,3,2
+Novak Djokovic,Serbia,SRB,false,Jeremy Chardy,France,FRA,false,2021,G,H,false,Australian Open,R128,6-3 6-1 6-2,95,5,5,100.0%,0.0%,5,0
+Roger Federer,Switzerland,SUI,false,Alejandro Falla,Colombia,COL,false,2015,G,C,false,Roland Garros,R128,6-3 6-3 6-4,95,5,5,100.0%,0.0%,5,0
+Roger Federer,Switzerland,SUI,false,Tommy Haas,Germany,GER,false,2009,G,G,false,Wimbledon,SF,7-6(3) 7-5 6-3,98,11,5,75.0%,25.0%,3,1

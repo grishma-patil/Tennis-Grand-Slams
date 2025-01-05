@@ -1,0 +1,59 @@
+rank,name,country_name,country_id,active,count,lastDate
+1,Novak Djokovic,Serbia,SRB,true,24,2023-08-28
+2,Rafael Nadal,Spain,ESP,false,22,2022-05-22
+3,Roger Federer,Switzerland,SUI,false,20,2018-01-15
+4,Pete Sampras,United States,USA,false,14,2002-08-26
+5,Bjorn Borg,Sweden,SWE,false,11,1981-05-25
+6,Jimmy Connors,United States,USA,false,8,1983-08-30
+6,Ivan Lendl,United States,USA,false,8,1990-01-15
+6,Andre Agassi,United States,USA,false,8,2003-01-13
+9,John McEnroe,United States,USA,false,7,1984-08-28
+9,Mats Wilander,Sweden,SWE,false,7,1988-08-29
+11,Stefan Edberg,Sweden,SWE,false,6,1992-08-31
+11,Boris Becker,Germany,GER,false,6,1996-01-15
+13,Rod Laver,Australia,AUS,false,5,1969-08-27
+13,John Newcombe,Australia,AUS,false,5,1974-12-21
+15,Ken Rosewall,Australia,AUS,false,4,1971-12-26
+15,Guillermo Vilas,Argentina,ARG,false,4,1979-12-24
+15,Jim Courier,United States,USA,false,4,1993-01-18
+18,Jan Kodes,Czech Republic,CZE,false,3,1973-06-25
+18,Arthur Ashe,United States,USA,false,3,1975-06-23
+18,Gustavo Kuerten,Brazil,BRA,false,3,2001-05-28
+18,Andy Murray,United Kingdom,GBR,true,3,2016-06-27
+18,Stan Wawrinka,Switzerland,SUI,true,3,2016-08-29
+23,Stan Smith,United States,USA,false,2,1972-06-26
+23,Ilie Nastase,Romania,ROU,false,2,1973-05-21
+23,Johan Kriek,United States,USA,false,2,1982-12-02
+23,Sergi Bruguera,Spain,ESP,false,2,1994-05-23
+23,Patrick Rafter,Australia,AUS,false,2,1998-08-31
+23,Yevgeny Kafelnikov,Russian Federation,RUS,false,2,1999-01-18
+23,Lleyton Hewitt,Australia,AUS,false,2,2002-06-24
+23,Marat Safin,Russian Federation,RUS,false,2,2005-01-17
+23,Carlos Alcaraz Garfia,Spain,ESP,true,2,2023-07-03
+32,Bill Bowrey,Australia,AUS,false,1,1968-01-19
+32,Andres Gimeno,Spain,ESP,false,1,1972-05-22
+32,Manuel Orantes,Spain,ESP,false,1,1975-08-27
+32,Mark Edmondson,Australia,AUS,false,1,1975-12-26
+32,Adriano Panatta,Italy,ITA,false,1,1976-05-31
+32,Roscoe Tanner,United States,USA,false,1,1977-01-01
+32,Vitas Gerulaitis,United States,USA,false,1,1977-12-19
+32,Brian Teacher,United States,USA,false,1,1980-12-26
+32,Yannick Noah,France,FRA,false,1,1983-05-23
+32,Pat Cash,Australia,AUS,false,1,1987-06-22
+32,Michael Chang,United States,USA,false,1,1989-05-29
+32,Andres Gomez,Ecuador,ECU,false,1,1990-05-28
+32,Michael Stich,Germany,GER,false,1,1991-06-24
+32,Thomas Muster,Austria,AUT,false,1,1995-05-29
+32,Richard Krajicek,Netherlands,NED,false,1,1996-06-24
+32,Petr Korda,Czech Republic,CZE,false,1,1998-01-19
+32,Carlos Moya,Spain,ESP,false,1,1998-05-25
+32,Goran Ivanisevic,Croatia,CRO,false,1,2001-06-25
+32,Thomas Johansson,Sweden,SWE,false,1,2002-01-14
+32,Albert Costa,Spain,ESP,false,1,2002-05-27
+32,Juan Carlos Ferrero,Spain,ESP,false,1,2003-05-26
+32,Andy Roddick,United States,USA,false,1,2003-08-25
+32,Gaston Gaudio,Argentina,ARG,false,1,2004-05-24
+32,Juan Martin Del Potro,Argentina,ARG,true,1,2009-08-31
+32,Marin Cilic,Croatia,CRO,true,1,2014-08-25
+32,Dominic Thiem,Austria,AUT,true,1,2020-08-31
+32,Daniil Medvedev,Russian Federation,RUS,true,1,2021-08-30
