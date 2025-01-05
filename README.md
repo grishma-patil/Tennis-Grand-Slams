@@ -1,4 +1,4 @@
-🎾 Tennis Grand Slams Data Visualization
+🎾 Tennis Grand Slams Data Visualization<br>
 📜 Project Overview
 This project provides an analytical journey through the history of Men's Singles Grand Slam tournaments from 1968 to 2023. The analysis uncovers fascinating trends, player dominance, and rivalries in the tennis world, with a special focus on the legendary "Big 3": Roger Federer, Rafael Nadal, and Novak Djokovic.
 
