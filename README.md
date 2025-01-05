@@ -30,17 +30,26 @@ Technologies: Data visualization, statistical analysis
 1. Grand Slam Titles by Country
 A world map showcasing countries that have secured Grand Slam titles, using a gradient to represent the number of wins.
 <div align="center">
-      <img width="281" alt="image" src="https://github.com/user-attachments/assets/e15d7241-0f8b-4915-9f7b-5f97bfb5cd08" />
+      <img width="849" alt="image" src="https://github.com/user-attachments/assets/0421ee8c-1a52-4152-b182-3d125b0eff23" />
 </div>
-3. Player Dominance
+2. Player Dominance
 Chord diagrams illustrating player performance in specific Grand Slams (e.g., Nadal's dominance on clay).
-
-4. Top Rivalries
+<div align="center">
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/ee6386f4-c8a2-41f3-9fd0-36e1427fe876" />
+</div>
+3. Top Rivalries
 Network visualizations and treemaps highlighting the intense rivalries among players.
-
-5. Big 3 Title Race
+<div align="center">
+      <img width="620" alt="image" src="https://github.com/user-attachments/assets/13b6bae7-30ba-423c-94c9-432ed6b9ab15" />
+      </div>
+4. Big 3 Title Race
 A timeline with dual-axis visuals tracking the Grand Slam title wins of Federer, Nadal, and Djokovic.
-
-6. Novak Djokovic's Journey
+<div align="center">
+      <img width="854" alt="image" src="https://github.com/user-attachments/assets/77a0573a-a062-4ef4-a5d6-9039f6fc2485" />
+      </div>
+5. Novak Djokovic's Journey
 A table charting Djokovic's Grand Slam matches from 2005–2023, with victories and defeats color-coded for easy reference.
 
+<div align="center">
+      <img width="650" alt="image" src="https://github.com/user-attachments/assets/e1913c22-9687-4d09-a032-1a6e34734242" />
+</div>
