@@ -29,9 +29,9 @@ Technologies: Data visualization, statistical analysis
 📊 Visualizations
 1. Grand Slam Titles by Country
 A world map showcasing countries that have secured Grand Slam titles, using a gradient to represent the number of wins.
-
-<img width="281" alt="image" src="https://github.com/user-attachments/assets/e15d7241-0f8b-4915-9f7b-5f97bfb5cd08" />
-
+<div align="center">
+      <img width="281" alt="image" src="https://github.com/user-attachments/assets/e15d7241-0f8b-4915-9f7b-5f97bfb5cd08" />
+</div>
 3. Player Dominance
 Chord diagrams illustrating player performance in specific Grand Slams (e.g., Nadal's dominance on clay).
 
